@@ -1,5 +1,6 @@
 img {
     max-width: 100%;
+    max-height: 20%;
     display: inline-block;
     justify-content: center;
 }
