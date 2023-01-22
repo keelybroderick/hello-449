@@ -47,6 +47,7 @@ pre {
     background: white;
     padding: 0;
     border-radius: 20px;
+    max-height: 40px;
 }
     
 .b {
@@ -54,6 +55,7 @@ pre {
     background: white;
     padding: 0;
     border-radius: 20px;
+    max-height: 227px;
 }
     
 .c {
@@ -61,6 +63,7 @@ pre {
     background: #E9EAEC;
     padding: 2rem;
     border-radius: 20px;
+    max-height: 373px;
 }
     
     
@@ -69,6 +72,7 @@ pre {
     background: #E9EAEC;
     padding: 2rem;
     border-radius: 20px;
+    max-height: 373px;
 }
     
 .darker {
