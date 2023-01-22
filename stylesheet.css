@@ -54,8 +54,7 @@ pre {
 .b {
     grid-area: b;
     background: red;
-    padding: 2rem;
-    border-radius: 20px;
+
     max-height: 227px;
     max-width: 800px;
 }
