@@ -81,8 +81,3 @@ pre {
     border-bottom-right-radius: 20px;
 }
     
-@media(max-width: 700px){
-    ul {
-        grid-template-columns: 1fr;
-    }  
-}
