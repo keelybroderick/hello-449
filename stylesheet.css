@@ -1,9 +1,12 @@
 #computerpic {
     display: inline-block;
+    min-width: 100%;
 }
 
 #logopic {
     display: inline-block;
+    max-width: 800px;
+    max-height: 227px;
 }
 
 #container {
