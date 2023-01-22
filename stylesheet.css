@@ -45,8 +45,7 @@ pre {
 .a {
     grid-area: a;
     background: yellow;
-    padding: 2rem;
-    border-radius: 20px;
+
     max-height: 40px;
     max-width: 800px;
 }
@@ -62,8 +61,7 @@ pre {
 .c {
     grid-area: c;
     background: #E9EAEC;
-    padding: 2rem;
-    border-radius: 20px;
+
     max-height: 373px;
     max-width: 384px;
 }
@@ -72,8 +70,7 @@ pre {
 .d {
     grid-area: d;
     background: #E9EAEC;
-    padding: 2rem;
-    border-radius: 20px;
+
     max-height: 373px;
     max-width: 384px;
 }
