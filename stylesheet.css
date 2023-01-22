@@ -1,6 +1,11 @@
-img {
+#computerpic {
     display: inline-block;
-    justify-content: center;
+    width: 40px;  
+}
+
+#logopic {
+    display: inline-block;
+    width: 800px;  
 }
 
 #container {
