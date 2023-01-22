@@ -1,11 +1,11 @@
 #computerpic {
-max-width: 800px;
-max-height: 227px;
+min-width: 800px;
+min-height: 227px;
 }
 
 #logopic {
-max-width: 40px;
-max-height: 40px;
+min-width: 40px;
+min-height: 40px;
 }
 
 #container {
