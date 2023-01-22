@@ -1,13 +1,11 @@
 #computerpic {
     display: inline-block;
-    height: 227px;
     object-fit: cover;
 }
 
 #logopic {
     display: inline-block;
-    max-width: 800;
-    max-height: 227px;
+    object-fit: cover;
 }
 
 #container {
