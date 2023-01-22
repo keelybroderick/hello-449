@@ -1,11 +1,11 @@
 #computerpic {
     display: inline-block;
-    object-fit: cover;
+    object-fit: fill;
 }
 
 #logopic {
     display: inline-block;
-    object-fit: cover;
+    object-fit: fill;
 }
 
 #container {
