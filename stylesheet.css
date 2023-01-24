@@ -69,8 +69,8 @@ pre {
     grid-area: c;
     background: #E9EAEC;
     border-radius: 20px;
-    min-height: 373px;
-    min-width: 384px;
+    min-height: 307px;
+    min-width: 320px;
     padding: 33px 32px;
 }
     
@@ -79,8 +79,8 @@ pre {
     grid-area: d;
     background: #E9EAEC;
     border-radius: 20px;
-    min-height: 373px;
-    min-width: 384px;
+    min-height: 307px;
+    min-width: 320px;
     padding: 33px 32px;
 }
     
