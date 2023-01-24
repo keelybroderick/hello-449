@@ -12,6 +12,9 @@
     
 #container {
     display: grid;
+    margin-top: 102px;
+    margin-bottom: 97px;
+    margin-left: 240px;
     grid-gap: 30px;
     max-width: 798px;
     max-height: 821px;
