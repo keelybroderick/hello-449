@@ -1,15 +1,8 @@
-
-
 #logopic {
 min-width: 40pt;
 min-height: 40pt;
 }
 
-
-#bar {
-    padding: 60px;
-    background: #red;
-}
 
 #container {
     display: grid;
@@ -20,6 +13,7 @@ min-height: 40pt;
     align-content: center;
     grid-template-columns: 1fr 1fr;
     grid-template-areas:
+    "z z"
     "a a"
     "b b"
     "c d"
@@ -50,7 +44,15 @@ pre {
     color: white;
     font-size: 18pt;
 }
-    
+  
+   
+.z {
+    grid-area: z;
+    min-height: 15px;
+    min-width: 1280px;
+    color: red;
+}
+
 .a {
     grid-area: a;
     border-radius: 20px;
