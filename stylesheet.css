@@ -80,7 +80,7 @@ pre {
 .d {
     grid-area: d;
     background: #E9EAEC;
-    background: linear-gradient(#E9EAEC 10%, #424242 90%);
+    background: linear-gradient(#E9EAEC 10%, #424242);
     border-radius: 20px;
     min-height: 307px;
     min-width: 320px;
