@@ -55,22 +55,22 @@ pre {
     grid-area: a;
     border-radius: 20px;
     min-height: 40px;
-    max-width: 800px;
+    min-width: 800px;
 }
     
 .b {
     grid-area: b;
     border-radius: 20px;
-    max-height: 227px;
-    max-width: 800px;
+    min-height: 227px;
+    min-width: 800px;
 }
     
 .c {
     grid-area: c;
     background: #E9EAEC;
     border-radius: 20px;
-    max-height: 373px;
-    max-width: 384px;
+    min-height: 373px;
+    min-width: 384px;
     padding: 33px 32px;
 }
     
@@ -79,8 +79,8 @@ pre {
     grid-area: d;
     background: #E9EAEC;
     border-radius: 20px;
-    max-height: 373px;
-    max-width: 384px;
+    min-height: 373px;
+    min-width: 384px;
     padding: 33px 32px;
 }
     
