@@ -51,6 +51,7 @@ pre {
         
 .a {
     grid-area: a;
+    color: red;
     border-radius: 20px;
     min-height: 40px;
     min-width: 800px;
@@ -87,5 +88,4 @@ pre {
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
     min-width: 320px;
-    padding: 33px 32px;
 }
