@@ -81,8 +81,8 @@ pre {
     grid-area: d;
     background: #E9EAEC;
     background: linear-gradient(
-        #E9EAEC 30%,
-        #424242 30%
+        #E9EAEC 25%,
+        #424242 25%
     );
     border-radius: 20px;
     min-height: 307px;
