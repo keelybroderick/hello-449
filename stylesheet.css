@@ -76,21 +76,15 @@ pre {
     min-width: 320px;
     padding: 33px 32px;
 }
-        
-        
+             
 .d {
     grid-area: d;
     background: #E9EAEC;
+    background: linear-gradient(#E9EAEC 50%, #424242 50%);
+    background: ;
     border-radius: 20px;
     min-height: 307px;
     min-width: 320px;
     padding: 33px 32px;
 }
         
-.darker {
-    background: #424242;
-    border-bottom-left-radius: 20px;
-    border-bottom-right-radius: 20px;
-    min-width: 320px;
-    min-height: 255;
-}
