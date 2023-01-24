@@ -37,7 +37,7 @@ h1 {
 }
         
 h2 {
-    font-size: 33px;
+    font-size: 20pt;
     font-family: Helvetica, sans-serif;
     font-weight: bold;
     margin-top: 0;
@@ -46,13 +46,13 @@ h2 {
 
 p {
     font-family: Helvetica, sans-serif;
-    font-size: 20pt;
+    font-size: 7pt;
 }
         
 pre {
     font-family: Courier, serif;
     color: white;
-    font-size: 5pt;
+    font-size: 7pt;
 }
         
 .a {
