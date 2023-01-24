@@ -52,7 +52,7 @@ p {
 pre {
     font-family: Courier, serif;
     color: white;
-    font-size: 20pt;
+    font-size: 12pt;
 }
         
 .a {
@@ -82,8 +82,8 @@ pre {
     grid-area: d;
     background: #E9EAEC;
     background: linear-gradient(
-        #E9EAEC 25%,
-        #424242 25%
+        #E9EAEC 30%,
+        #424242 30%
     );
     border-radius: 20px;
     min-height: 307px;
