@@ -79,6 +79,7 @@ pre {
     border-radius: 20px;
     min-height: 307px;
     min-width: 320px;
+    padding: 33px 32px;
 }
         
 .darker {
@@ -86,4 +87,5 @@ pre {
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
     min-width: 320px;
+    padding: 33px 32px;
 }
